@@ -21,12 +21,4 @@ I'm **Théo**, an Engineering Student from France, passionate about **Artificial
   </a>
 </p>
 
-<br/>
 
-### 📊 GitHub Stats
-
-<a href="https://github.com/theoplg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoplg&layout=compact&theme=radical&show_icons=true" />
-</a>
-
-</div>
