@@ -17,7 +17,7 @@ I'm **Théo**, an Engineering Student from France, passionate about **Artificial
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,ts,bash,latex,pytorch,sklearn,pandas,numpy" />
+    <img src="https://skillicons.dev/icons?i=python,c,ts,bash,latex,pytorch,sklearn,pandas," />
   </a>
 </p>
 
