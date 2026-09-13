@@ -6,14 +6,15 @@
 
 ### 👨‍💻 About Me
 
-I'm **Théo**, an engineering student from France working on **computer vision** and **generative models**.
+I'm **Théo**, an engineering student from France working on **computer vision**, **deep learning** and **applied mathematics**.
 
 * 🎓 **M.Sc. MVA** (Mathématiques, Vision, Apprentissage) at ENS Paris-Saclay — 2026/2027
 * 🎓 **M.Sc. in Engineering** at [Télécom Paris](https://www.telecom-paris.fr/), Institut Polytechnique de Paris — 2024/2027
 * 🔬 Previously **Computer Vision & AI Intern at Thales**, working on anomaly detection for security document manufacturing
 * 🌱 Currently interested in anomaly detection, medical imaging, representation learning, and 3D vision
 * 🔎 **Looking for a research internship in AI / computer vision, starting spring 2027**
-* 📫 Reach me at **[theo.palagi2004@gmail.com](mailto:theo.palagi2004@gmail.com)** — [LinkedIn](https://www.linkedin.com/in/théo-palagi) · [Portfolio](https://theoplg.github.io)
+* 🧪 On my git you might find some lab work for school, class projects or some personal ones.
+* 📫 Reach me at **[theo.palagi@telecom-paris.fr](mailto:theo.palagi@telecom-paris.fr)** — [LinkedIn](https://www.linkedin.com/in/théo-palagi) · [Portfolio](https://theoplg.github.io)
 
 <br/>
 
