@@ -22,10 +22,10 @@ I'm **Théo**, an engineering student from France working on **computer vision**
 
 | Project | What it is |
 |---|---|
-| **[MedVAE-X](https://github.com/theoplg)** | Reusing a pretrained medical autoencoder on a new modality. Segmenting MedVAE's 16× compressed latent collapses to background on 26-class coronary segmentation, and a control condition separates the cost of compression from the cost of adapting to it. |
-| **[White Blood Cell Classification](https://github.com/theoplg)** | 13 cell types from 28,901 microscopy images at 1183:1 imbalance. ConvNeXt-Tiny with focal loss, MixUp/CutMix and TTA — 0.77 macro F1, ranked 20th of 70+. |
-| **[PatchMatch — Copy-Move Forgery Detection](https://github.com/theoplg)** | PatchMatch re-implemented from scratch, then repurposed from image editing to forgery detection by filtering the displacement field on a global offset histogram. |
-| **[Unsupervised Text Clustering](https://github.com/theoplg)** | An unsupervised NLP pipeline built on BERT embeddings and HDBSCAN, evaluated on cluster quality, interpretability, and compute cost. |
+| **[MedVAE-X](https://github.com/theoplg/MedVAE-X)** | Reusing a pretrained medical autoencoder on a new modality. Segmenting MedVAE's 16× compressed latent collapses to background on 26-class coronary segmentation, and a control condition separates the cost of compression from the cost of adapting to it. |
+| **[White Blood Cell Classification](https://github.com/theoplg/White-Blood-Cell-Classification)** | 13 cell types from 28,901 microscopy images at 1183:1 imbalance. ConvNeXt-Tiny with focal loss, MixUp/CutMix and TTA — 0.77 macro F1, ranked 20th of 70+. |
+| **[PatchMatch — Copy-Move Forgery Detection](https://github.com/theoplg/copy-move-forgery)** | PatchMatch re-implemented from scratch, then repurposed from image editing to forgery detection by filtering the displacement field on a global offset histogram. |
+| **[Unsupervised Text Clustering](https://github.com/theoplg/llm-ssc)** | An unsupervised NLP pipeline built on BERT embeddings and HDBSCAN, evaluated on cluster quality, interpretability, and compute cost. |
 
 <br/>
 
